@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @cyberrabbitx
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Penetration Testing and Bug Bounty
-- 📫 You can Message me on Instagram 
+Hey there 👋
 
-<!---
-cyberrabbitx/cyberrabbitx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Cyber Rabbit
+
+Cyber Security Enthusiastic | Digital Creator | Trainer |
+
+🏡 I’m from India.
+
+📚 I'm currently learning all about IT and Security.
